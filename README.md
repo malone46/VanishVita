@@ -4,6 +4,17 @@ Step into VANISH, an indie horror game testing your sanity in a labyrinth of unk
 # Added features:
 A simple menu was added to exit the game to the main menu without restarting the game from the Vita Livearea.
 
+# Controls:
+Touchscreen - Menus
+Down - Take/Use Glowsticks
+Left Stick - Move
+Right Stick - Look
+Circle - Crouch
+Cross - Run
+Square - Take/Read note papers
+Start - In-game menu
+
+Vanish: Playstation Vita Edition Trailer
 <url>https://youtu.be/Rb9jEgquU3Y<url/>
 
 <img src="https://github.com/user-attachments/assets/cb79582e-ba7d-4354-9892-fd62735433f8" width="480" height="270" />
