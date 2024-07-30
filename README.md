@@ -31,7 +31,7 @@ Square - Take/Read note papers
 Start - In-game menu
 
 **Vanish: Playstation Vita Edition Trailer**
-<url>https://youtu.be/Rb9jEgquU3Y<url/>
+<url>https://youtu.be/edAE3ZCd58k?si=N8plhLGd7lu0fKtp<url/>
 
 <img src="https://github.com/user-attachments/assets/cb79582e-ba7d-4354-9892-fd62735433f8" width="480" height="270" />
 
