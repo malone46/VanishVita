@@ -1,6 +1,7 @@
 # Vanish
-Step into VANISH, an indie horror game testing your sanity in a labyrinth of unknown. Navigate shadowy corridors, outsmart lurking terrors, and uncover the path to freedom. Will you survive, or succumb to unspeakable horrors? Prepare for the ultimate test in this free indie horror.
+Step into VANISH, an indie horror game testing your sanity in a labyrinth of unknown. Navigate shadowy corridors, outsmart lurking terrors, and uncover the path to freedom. Will you **survive**, or succumb to unspeakable **horrors**? Prepare for the ultimate test in this free indie horror.
 
+Vanish may be the most horrifiying experience of first person horror game on the Playstation Vita !
 <img src="https://github.com/user-attachments/assets/cb79582e-ba7d-4354-9892-fd62735433f8" width="480" height="270" />
 
 # How to install ?
