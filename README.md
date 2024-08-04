@@ -33,7 +33,7 @@ Start - In-game menu
 **Vanish: Playstation Vita Edition Trailer**
 <url>https://youtu.be/edAE3ZCd58k?si=N8plhLGd7lu0fKtp<url/>
 
-<img src="https://github.com/user-attachments/assets/cb79582e-ba7d-4354-9892-fd62735433f8" width="480" height="270" />
+<img src="https://github.com/user-attachments/assets/cb79582e-ba7d-4354-9892-fd62735433f8" width="320" height="270" />
 
 # How to install ?
 To install the game download the .vpk from github then install it with you're favorite VPK installer or more easily with VitaDB (might come later than github release).
